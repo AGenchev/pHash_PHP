@@ -4,4 +4,4 @@ The problem it tries to solve is the difficult compilation of the native dHash e
 Aims to provide compatible output for its base function - pHash.
 
 
-Status: Not ready - do not use !!!
+Status: most functions return hashes. The pHash() function still looks broken.
